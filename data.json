@@ -1,0 +1,30 @@
+[
+  {
+    "ID": 62,
+    "Account": "Azz123",
+    "DateTime": "2024-11-23T13:56:39.08",
+    "Makeup": null,
+    "Type": true
+  },
+  {
+    "ID": 63,
+    "Account": "AWZ123",
+    "DateTime": "2024-11-23T08:56:40.667",
+    "Makeup": null,
+    "Type": false
+  },
+  {
+    "ID": 64,
+    "Account": "AC545",
+    "DateTime": "2024-11-23T13:56:42.177",
+    "Makeup": null,
+    "Type": false
+  },
+  {
+    "ID": 65,
+    "Account": "234AZ",
+    "DateTime": "2024-11-23T13:56:43.217",
+    "Makeup": null,
+    "Type": true
+  }
+]
